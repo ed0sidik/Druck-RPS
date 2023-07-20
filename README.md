@@ -5,4 +5,10 @@ Excel VBA and Arduino sample code for reading frequency (pressure) and diode vol
 |RPS8100|Arduino Nano|
 |-------|------------|
 |Red|+5V|
+|Yellow|D5|
+|Green|A0|
+|Blue|GND|
+|Black|NC|
+|White|GND|
+
 ![Alt text](https://github.com/ed0sidik/Druck-RPS/blob/main/Pinout-NANO_latest.png?raw=true)<BR>
